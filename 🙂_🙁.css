@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.\🦴 {
+	/* Center 🦴 in page */
+	margin: 0 auto;
+	max-width: 750px;
+	padding: 2rem;
+	border-radius: 6px;
+	overflow-x: hidden;
+	word-break: break-word;
+	overflow-wrap: break-word;
+
+	/* Main body text */
+	font-size: 1.03rem;
+	line-height: 1.5;
+}
+
+.\📢, .\🔊, .\🔉, .\🔈, .\📯, .\📡 {
+	line-height: 1;
+	padding-top: .875rem;
+}
+
+.\📢, .\🔊, .\🔉 {
+	padding-bottom: 2px;
+	margin-bottom: 8px;
+	border-bottom: 1px solid currentColor;
+}
+
+.\📢 {
+	font-size: 2.25rem;
+}
+
+.\🔊 {
+	font-size: 1.85rem;
+}
+
+.\🔉 {
+	font-size: 1.55rem;
+}
+
+.\🔈 {
+	font-size: 1.25rem;
+}
+
+.\📯 {
+	font-size: 1rem;
+}
+
+.\📡 {
+	font-size: .875rem;
+}
+
+.\🔗 {
+	text-decoration: underline;
+}
+
+.\📜 {
+	padding: 1.5rem;
+}
+
+.\⌨️ {
+	/* Makes the kbd element look like a keyboard key */
+    border-radius: 4px;
+	padding: 3px 6px;
+	font-size: 0.9rem;
+}
+
+.\📋 {
+	padding: 1rem 1.4rem;
+	max-width: 100%;
+	overflow: auto;
+}
+
+.\📋 .\📟 {
+	/* When 📟 is in a 📋, reset it's formatting to blend in */
+	background: inherit;
+	font-size: inherit;
+	color: inherit;
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.\📏 {
+	/* Reset the border of the <hr> separator, then set a better line */
+	border: 0;
+	border-bottom: 1px solid currentColor;
+	margin: 1rem auto;
+}
+
+.\🖼 {
+	max-width: 100%;
+}
