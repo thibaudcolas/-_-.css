@@ -4,7 +4,7 @@ A mood-driven CSS framework to write modern websites using only emojis 🎉
 
 No complicated classes to remember, and much less typing than traditional verbose methodologies like BEM. Impossibly fast – emojis are only a few bytes each, name mangling out of the box.
 
-> [View the demo](https://thibaudcolas.github.io/-_-.css/)
+> 🚀 [View the demo](https://thibaudcolas.github.io/-_-.css/)
 
 ## Usage
 
