@@ -1,6 +1,6 @@
 # [🙂_🙁.css](https://thibaudcolas.github.io/-_-.css/)
 
-A mood-based CSS framework to write modern websites using only emojis
+A mood-driven CSS framework to write modern websites using only emojis 🎉 No complicated classes to remember, and much less typing than traditional verbose methodologies like BEM. Impossibly fast – emojis are only a few bytes each.
 
 > [View the demo](https://thibaudcolas.github.io/-_-.css/)
 
@@ -8,7 +8,7 @@ A mood-based CSS framework to write modern websites using only emojis
 
 ```css
 .\⌨️ {
-	/* Makes the kbd element look like a keyboard key */
+	/* Makes the ⌨️ element look like a keyboard key */
     border-radius: 4px;
 	padding: 3px 6px;
 	font-size: 0.9rem;
@@ -31,7 +31,7 @@ A mood-based CSS framework to write modern websites using only emojis
 }
 
 .\📏 {
-	/* Reset the border of the <hr> separator, then set a better line */
+	/* Reset the border of the 📏 separator, then set a better line */
 	border: 0;
 	border-bottom: 1px solid currentColor;
 	margin: 1rem auto;
