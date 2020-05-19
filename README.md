@@ -6,6 +6,8 @@ No complicated classes to remember, and much less typing than traditional verbos
 
 > 🚀 [View the demo](https://thibaudcolas.github.io/-_-.css/)
 
+![Screenshot of the index.html source code, showing beautiful hand-crafted impossibly DRY code](carbon.png)
+
 ## Usage
 
 ```css
